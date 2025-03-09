@@ -23,8 +23,8 @@
 ## 🌐 Socials:
 
 <div align="center">
-<a href="https://linkedin.com/in/jashwanth-rit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Jashwanth-rit" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/jashwanth-rit](https://www.linkedin.com/in/jashwanth-jk-071725310/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Jk-karunadu" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <br>
@@ -42,13 +42,13 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jashwanth-rit&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jashwanth-rit&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jashwanth-rit&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jashwanth-rit&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jashwanth-rit&theme=radical&utcOffset=5.5">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Jashwanth-rit&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jashwanth-rit&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jk-karunadu&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jk-karunadu&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jk-karunadu&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jk-karunadu&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jk-karunadu&theme=radical&utcOffset=5.5">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Jk-karunadu&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jk-karunadu&theme=radical">
 </div>
 
 <br>
@@ -56,7 +56,7 @@
 # 🏆 Trophies
 
 <div align="center">
-<img src="https://github-trophies.vercel.app/?username=Jashwanth-rit&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+<img src="https://github-trophies.vercel.app/?username=Jk-karunadu&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 # 🎖 Badges
@@ -97,6 +97,6 @@
 </p>
 
 <hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Jashwanth-rit&color=red" alt="Total GitHub views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Jk-karunadu&color=red" alt="Total GitHub views" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
